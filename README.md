@@ -7,7 +7,7 @@ Ce projet a pour objectif de développer une application web dédiée à la rés
 
 ## Installation
 
-### Frontend (React)
+### Backend (Springboot) et Frontend (React)
 Assurez-vous d'avoir Node.js et npm installés sur votre machine.
 
 ```bash
